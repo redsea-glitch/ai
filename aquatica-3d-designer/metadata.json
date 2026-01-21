@@ -1,0 +1,5 @@
+{
+  "name": "Aquatica 3D Designer",
+  "description": "An immersive underwater background designer leveraging Gemini 2.5 Flash Image for AI-driven environment generation and editing, tailored for high-end web interfaces.",
+  "requestFramePermissions": []
+}
